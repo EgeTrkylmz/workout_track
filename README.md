@@ -52,6 +52,3 @@ Plain HTML, CSS and JavaScript. Web Audio API for the alarm, Vibration API where
 
 Built by Ege, an electrical and electronics engineer working in industrial automation, as a personal project while improving my software skills.
 
-## License
-
-MIT
