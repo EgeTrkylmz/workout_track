@@ -2,7 +2,7 @@
 
 A small workout app that keeps track of which set you're on and runs a rest timer between sets.
 
-**Live demo:** https://EgeTrkylmz.github.io/work-track/
+**Live demo:** https://EgeTrkylmz.github.io/workout_track/
 
 <!-- Add a screenshot or short GIF here, e.g. ![screenshot](screenshot.png) -->
 
