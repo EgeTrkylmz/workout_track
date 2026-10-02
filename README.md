@@ -2,7 +2,9 @@
 
 A small workout app that keeps track of which set you're on and runs a rest timer between sets.
 
-**Live demo:** https://EgeTrkylmz.github.io/work-track/
+**Live demo:** https://YOUR-USERNAME.github.io/work-track/
+
+<!-- Add a screenshot or short GIF here, e.g. ![screenshot](screenshot.png) -->
 
 ## Why I built this
 
@@ -25,9 +27,11 @@ It's a single HTML file, no build step and no dependencies.
 1. Download `index.html`
 2. Open it in a browser
 
+On a phone, open the live demo link and add it to the home screen (on iPhone: Safari -> Share -> Add to Home Screen).
 
 ## Known limitations
 
+- iOS Safari doesn't support the Vibration API, so on iPhone you only get sound and the visual alert.
 - If the phone screen locks or the browser goes to the background, the alarm may not play. The timer itself stays correct because it uses an end timestamp instead of counting ticks, but you won't be notified until you open the page again.
 - No workout history yet, only the current session is stored.
 
@@ -48,3 +52,6 @@ Plain HTML, CSS and JavaScript. Web Audio API for the alarm, Vibration API where
 
 Built by Ege, an electrical and electronics engineer working in industrial automation, as a personal project while improving my software skills.
 
+## License
+
+MIT
