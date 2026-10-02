@@ -31,7 +31,6 @@ On a phone, open the live demo link and add it to the home screen (on iPhone: Sa
 
 ## Known limitations
 
-- iOS Safari doesn't support the Vibration API, so on iPhone you only get sound and the visual alert.
 - If the phone screen locks or the browser goes to the background, the alarm may not play. The timer itself stays correct because it uses an end timestamp instead of counting ticks, but you won't be notified until you open the page again.
 - No workout history yet, only the current session is stored.
 
